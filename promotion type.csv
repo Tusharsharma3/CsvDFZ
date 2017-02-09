@@ -1,0 +1,4 @@
+﻿PROMO_TYPE_ID,PROMO_TYPE_DESC,PROMO_TYPE_DESC_DE,PROMO_TYPE_DESC_FR,PROMO_TYPE_DESC_ES,PROMO_TYPE_DESC_IT,PROMO_TYPE_DESC_PO,PROMO_TYPE_DESC_JA,PROMO_TYPE_DESC_SCH,PROMO_TYPE_DESC_KO
+1,Seasonal Sale,Schlussverkauf,Soldes saisonnières,Rebajas de Temporada,Saldi di Stagione,Nenhuma alteração,季節セール,季节性促销,계절 판매
+2,Special Sale,Sonderverkauf,Soldes spéciales,Rebajas Especiales,Vendita speciale,Oferta Especial,特別セール,特价促销,특별 판매
+0,No Promotion,Keine Sonderaktion,Pas de promotion,Sin promoción,Nessuna promozione,Sem Promoção,販促活動なし,无促销,프로모션 없음

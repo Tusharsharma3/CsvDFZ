@@ -1,0 +1,19 @@
+﻿MANAGER_ID,MGR_LAST_NAME,MGR_FIRST_NAME,EMAIL,ADDRESS_DISPLAY,MSTR_USER,DEVICE_ID
+1,Aoter,Barbara,baoter@microstrategy-tutorial.demo,"Aoter, Barbara",demo,66A69A9914AC11D5BE9B00C04F13C1B1
+2,Ritholtz,Cecelia,critholtz@microstrategy-tutorial.demo,"Ritholtz, Cecelia",demo,66A69A9914AC11D5BE9B00C04F13C1B1
+3,Missner,Galvin,gmissner@microstrategy-tutorial.demo,"Missner, Galvin",demo,66A69A9914AC11D5BE9B00C04F13C1B1
+4,Snyderman,Reba,rsnyderman@microstrategy-tutorial.demo,"Snyderman, Reba",demo,B8D0B2C48D9511D4B89E00C04F33122E
+5,Becker,Cornelius,cbecker@microstrategy-tutorial.demo,"Becker, Cornelius",demo,66A69A9914AC11D5BE9B00C04F13C1B1
+6,Shearn,Katharine,kshearn@microstrategy-tutorial.demo,"Shearn, Katharine",Administrator,B8D0B2C48D9511D4B89E00C04F33122E
+7,Austin,Tilda,taustin@microstrategy-tutorial.demo,"Austin, Tilda",Administrator,66A69A9914AC11D5BE9B00C04F13C1B1
+8,Rosie,Calvin,crosie@microstrategy-tutorial.demo,"Rosie, Calvin",Administrator,B8D0B2C48D9511D4B89E00C04F33122E
+9,Lewandowski,Allister,alewandowski@microstrategy-tutorial.demo,"Lewandowski, Allister",BusinessUser,66A69A9914AC11D5BE9B00C04F13C1B1
+10,Abram,Crisby,cabram@microstrategy-tutorial.demo,"Abram, Crisby",BusinessUser,B8D0B2C48D9511D4B89E00C04F33122E
+11,Kelt,Brian,bkelt@microstrategy-tutorial.demo,"Kelt, Brian",BusinessUser,66A69A9914AC11D5BE9B00C04F13C1B1
+12,Tibben,Chad,ctibben@microstrategy-tutorial.demo,"Tibben, Chad",BusinessUser,B8D0B2C48D9511D4B89E00C04F33122E
+13,Kwasi,Jessica,jkwasi@microstrategy-tutorial.demo,"Kwasi, Jessica",User,66A69A9914AC11D5BE9B00C04F13C1B1
+14,Kelly,Timothy,tkelly@microstrategy-tutorial.demo,"Kelly, Timothy",User,B8D0B2C48D9511D4B89E00C04F33122E
+15,Rose,Peter,prose@microstrategy-tutorial.demo,"Rose, Peter",User,66A69A9914AC11D5BE9B00C04F13C1B1
+16,Roe,Meredith,mroe@microstrategy-tutorial.demo,"Roe, Meredith",User,B8D0B2C48D9511D4B89E00C04F33122E
+17,Jackson,William,wjackson@microstrategy-tutorial.demo,"Jackson, William",User,66A69A9914AC11D5BE9B00C04F13C1B1
+18,Cooper,Alice,acooper@microstrategy-tutorial.demo,"Cooper, Alice",User,B8D0B2C48D9511D4B89E00C04F33122E

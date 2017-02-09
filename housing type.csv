@@ -1,0 +1,4 @@
+﻿HOUSINGTYPE_ID,HOUSINGTYPE_DESC,HOUSINGTYPE_DESC_DE,HOUSINGTYPE_DESC_FR,HOUSINGTYPE_DESC_ES,HOUSINGTYPE_DESC_IT,HOUSINGTYPE_DESC_PO,HOUSINGTYPE_DESC_JA,HOUSINGTYPE_DESC_KO,HOUSINGTYPE_DESC_SCH
+1,Renter,Mieter,Locataire,Arrendatario/a,Noleggiatore,Locatário,賃貸,임차인,租赁
+2,Owner,Eigentümer,Propriétaire,Propietario/a,Proprietario,Proprietário,持ち家,소유자,房主
+3,Dependent,Angehöriger,Personne à charge,Dependiente,Dipendente,Dependente,扶養家族,부양 가족,受赡养者

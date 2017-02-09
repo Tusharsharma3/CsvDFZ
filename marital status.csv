@@ -1,0 +1,4 @@
+﻿MARITALSTATUS_ID,MARITALSTATUS_DESC,MARITALSTATUS_DESC_DE,MARITALSTATUS_DESC_FR,MARITALSTATUS_DESC_ES,MARITALSTATUS_DESC_IT,MARITALSTATUS_DESC_PO,MARITALSTATUS_DESC_JA,MARITALSTATUS_DESC_KO,MARITALSTATUS_DESC_SCH
+1,Single,Ledig,Célibataire,Soltero/a,Libero,Solteiro,独身,미혼,单身
+2,Married,Verheiratet,Marié(e),Casado/a,Coniugato,Casado,既婚,기혼,已婚
+3,Previously Married,Ehemals verheiratet,Marié(e) précédemment,Previamente casado/a,Coniugato in precedenza,Anteriormente Casado,結婚経験あり,자정 특별 세일,再婚

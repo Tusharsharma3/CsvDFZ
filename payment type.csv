@@ -1,0 +1,6 @@
+﻿PYMT_TYPE,PYMT_DESC,PYMT_DESC_DE,PYMT_DESC_FR,PYMT_DESC_ES,PYMT_DESC_IT,PYMT_DESC_PO,PYMT_DESC_JA,PYMT_DESC_SCH,PYMT_DESC_KO
+1,Visa,Visa,Visa,Visa,Visa,Visa,Visa,维萨卡,비자
+2,Amex,Amex,Amex,Amex,Amex,American Express,AMEX,美国运通,아멕스
+3,Check,Scheck,Check,Cheque,Assegno,Cheque,小切手,支票,체크 카드
+4,MC,MC,MC,MC,MC,Mastercard,MC,万事达卡,엠씨
+5,Club Card,Club Card,Club Card,Club Card,Carta club,Cartão de Clube,クラブ カード,会员达卡,클럽 카드

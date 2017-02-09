@@ -1,0 +1,7 @@
+﻿PROMOTION_ID,PROMOTION_DESC,PROMOTION_DISCOUNT,PROMO_TYPE_ID,PROMOTION_DESC_DE,PROMOTION_DESC_FR,PROMOTION_DESC_ES,PROMOTION_DESC_IT,PROMOTION_DESC_PO,PROMOTION_DESC_JA,PROMOTION_DESC_KO,PROMOTION_DESC_SCH
+0,No Promotion,0,0,Keine Sonderaktion,Pas de promotion,Sin promoción,Nessuna promozione,Sem Promoção,販促活動なし,프로모션 없음,无促销
+1,Back-to-School Sale,10,1,Sonderverkauf Schule hat begonnen,Soldes de rentrée scolaire,Rebajas de vuelta al colegio,Vendite per la ripresa della scuola,Promoção de Volta às Aulas,新学期セール,신학기 맞이 세일,返校促销
+2,Holiday Sale,15,1,Sonderverkauf Urlaub,Soldes des fêtes,Rebajas de vacaciones,Vendite per le vacanze,Promoção de Férias,休日セール,휴일 세일,节日促销
+3,Spring Sale,10,1,Sonderverkauf Frühjahr,Soldes de printemps,Rebajas de primavera,Saldi di primavera,Promoção de Primavera,スプリング セール,봄 세일,春季促销
+4,Midnight Madness Sale,20,2,Sonderverkauf Midnight Madness,Soldes folles de minuit,Rebajas Locura de medianoche,Vendita Midnight Madness,Promoção Loucura à Meia-Noite,深夜セール,자정 특별 세일,午夜疯狂销售
+5,Memphis Special Sale,25,2,Sonderverkauf Memphis Special,Soldes spéciales de Memphis,Rebajas Especial de Memphis,Vendita Speciale Memphis,Promoção Especial Mênfis,メンフィス特別セール,멤피스 특별 세일,孟菲斯特价促销

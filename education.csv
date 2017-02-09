@@ -1,0 +1,5 @@
+﻿EDUCATION_ID,EDUCATION_DESC,EDUCATION_DESC_DE,EDUCATION_DESC_FR,EDUCATION_DESC_ES,EDUCATION_DESC_IT,EDUCATION_DESC_PO,EDUCATION_DESC_JA,EDUCATION_DESC_KO,EDUCATION_DESC_SCH
+1,High School,Sekundarschule,Lycéen,Enseñanza secundaria,Superiori,Colegial,高校,고등학교,高中
+2,Undergraduate,Studium ohne Abschluss,Étudiant du premier cycle,Universidad,Diploma,Universitário,大学,대학생,大学
+3,Graduate,Studium mit Abschluss,Diplômé de l'enseignement supérieur,Postgrado,Laurea,Bacharel,大学院,대학원생,研究生
+4,Other,Andere,Autre,Otro,Altro,Outro,その他,기타,其它

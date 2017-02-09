@@ -1,0 +1,13 @@
+﻿REGION_ID,REGION_NAME,COUNTRY_ID,REGION_NAME_DE,REGION_NAME_FR,REGION_NAME_ES,REGION_NAME_IT,REGION_NAME_PO,REGION_NAME_JA,REGION_NAME_SCH,REGION_NAME_KO
+1,Northeast,1,Nordosten,Nord-Est,Noreste,Nord-est,Nordeste,北東部,东北,북동부
+2,Mid-Atlantic,1,Mittlere Atlantikküste,Mid-Atlantique,Atlántico Central,Atlantico centrale,Médio-Atlântico,中部大西洋岸,中-大西洋,동부 대서양 연안
+3,Southeast,1,Südosten,Sud-Est,Sureste,Sud-est,Sudeste,南東部,东南,남동부
+4,Central,1,Mitte,Centre,Central,Centrale,Centro,中央部,中,중앙
+5,South,1,Süden,Sud,Sur,Sud,Sul,南部,南,남부
+6,Northwest,1,Nordwesten,Nord-Ouest,Noroeste,Nord-ovest,Noroeste,北西部,西北,북서부
+7,Southwest,1,Südwesten,Sud-Ouest,Suroeste,Sud-ovest,Sudoeste,南西部,西南,남서부
+8,England,3,England,Angleterre,Inglaterra,Inghilterra,Inglaterra,イギリス,英国,영국
+9,France,4,Frankreich,France,Francia,Francia,França,フランス,法国,프랑스
+10,Germany,5,Deutschland,Allemagne,Alemania,Germania,Alemanha,ドイツ,德国,독일
+11,Canada,6,Kanada,Canada,Canadá,Canada,Canadá,カナダ,加拿大,캐나다
+12,Web,7,Web,Web,Web,Web,Web,Web,Web,웹
